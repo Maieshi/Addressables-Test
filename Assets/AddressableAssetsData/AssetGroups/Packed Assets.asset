@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Packed Assets
+  m_EditorClassIdentifier: 
+  m_GroupName: Packed Assets
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 25caa792140418a44aaf7835eae3d9a6
+  m_SerializeEntries:
+  - m_GUID: 64dce48905ffd9b4293e595fa6941544
+    m_Address: Assets/Prefabs/PlayerArmature.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 766fd3ff04aab4745a764d33daac86fa
+    m_Address: Assets/Character/Materials/M_Armature_Arms.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 43714b68324cc2c409d534d9874f2a2b
+    m_Address: Assets/Character/Materials/M_Armature_Body.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 8b25e99361ac31d4e9ae83c46aee69ea
+    m_Address: Assets/Character/Materials/M_Armature_Legs.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: febe806d127bf6944a8f680a2af746da
+    m_Address: Assets/Character/Sfx/Heaven Pierce Her-Unstoppable Force-kissvk.com.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: ce5488ca3488eea4f9b1041af49f3f9e
+    m_Address: "Assets/Character/Textures/\u0411\u0435\u0437 \u043D\u0430\u0437\u0432\u0430\u043D\u0438\u044F.png"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: b2c0bd24e46cae7469b6f10178002e96, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 7757f30d461e1bb4e8e7bb864f42b9dc, type: 2}
+    - {fileID: 11400000, guid: d072beb0ee1cede4084e33cdefd6349c, type: 2}
